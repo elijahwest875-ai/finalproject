@@ -1,0 +1,106 @@
+body{
+    background-color: lightblue;
+    
+}
+
+.center-video {
+    display: flex;
+    justify-content: center;
+}
+
+
+.heading-box {
+    background-color: #1a7d3b;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 6px;
+    display: block;
+    width: fit-content;
+    margin: 0 auto 20px auto;
+}
+
+
+.title-box {
+    background-color: white;     /* dark green */
+    top: 5px;
+    left: 25px;
+    right: 25px;
+    height: 100px;
+}
+
+h1{
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 56px;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+h2{
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    font-style: italic;
+    
+}
+
+
+h3{
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    font-style: italic;
+    
+}
+
+h4{
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+   
+}
+
+h5{
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+   
+}
+
+h6{
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+h7{
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 56px;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+li{ color : darkgray; 
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-size:20px;
+text-align: left;
+
+}
